@@ -13,6 +13,7 @@ namespace StockWebApp.Models
 
 		public Stock()
 		{
+			
 
 		}
 
