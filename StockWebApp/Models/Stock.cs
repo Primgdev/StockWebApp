@@ -11,11 +11,7 @@ namespace StockWebApp.Models
 
 			public string quantity { get; set; }
 
-		public Stock()
-		{
-			
-
-		}
+		
 
 		
 	}
