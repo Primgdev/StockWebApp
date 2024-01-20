@@ -36,6 +36,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/Stock/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/Stock/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/Stock/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/Stock/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2svSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
