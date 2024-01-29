@@ -13,6 +13,7 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  background-color:black;
 }
 
 body {
@@ -20,3 +21,6 @@ body {
  
 }
 
+.display{
+    background-color:black;
+}

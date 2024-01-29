@@ -1,45 +1,25 @@
 ﻿<Properties StartupConfiguration="{6C0D21C4-E517-40A5-BFC1-5971EACC969A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StockWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StockWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockWebApp/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="StockWebApp/Data/ApplicationDbContext.cs" Line="1" Column="1" />
-      <File FileName="StockWebApp/Models/Stock.cs" Line="17" Column="1" />
-      <File FileName="StockWebApp/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="StockWebApp/Program.cs" Line="3" Column="10" />
-      <File FileName="StockWebApp/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="StockWebApp/Views/Home/Index.cshtml" Line="14" Column="1" />
+      <File FileName="StockWebApp/Data/ApplicationDbContext.cs" Line="16" Column="1" />
+      <File FileName="StockWebApp/Models/Stock.cs" />
+      <File FileName="StockWebApp/Views/_ViewStart.cshtml" />
+      <File FileName="StockWebApp/Program.cs" />
+      <File FileName="StockWebApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="StockWebApp/Views/Home/Index.cshtml" />
       <File FileName="StockWebApp/wwwroot/css/site.css" />
-      <File FileName="StockWebApp/Views/Shared/_LoginPartial.cshtml" Line="27" Column="1" />
-      <File FileName="StockWebApp/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="StockWebApp/Views/Stock/Create.cshtml" Line="1" Column="1" />
-      <File FileName="StockWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="105" Column="48" />
+      <File FileName="StockWebApp/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="StockWebApp/Controllers/HomeController.cs" />
+      <File FileName="StockWebApp/Views/Stock/Create.cshtml" />
+      <File FileName="StockWebApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" />
+      <File FileName="StockWebApp/Data/Migrations/ApplicationDbContextModelSnapshot.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="StockWebApp">
-            <Node name="StockWebApp">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data">
-                <Node name="Migrations" expanded="True">
-                  <Node name="00000000000000_CreateIdentitySchema.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-                <Node name="Stock" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.StockWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

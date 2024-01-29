@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pritam\\Desktop\\StockWebApp\\StockWebApp\\StockWebApp.csproj": {}
+    "/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/StockWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pritam\\Desktop\\StockWebApp\\StockWebApp\\StockWebApp.csproj": {
+    "/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/StockWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pritam\\Desktop\\StockWebApp\\StockWebApp\\StockWebApp.csproj",
+        "projectUniqueName": "/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/StockWebApp.csproj",
         "projectName": "StockWebApp",
-        "projectPath": "C:\\Users\\Pritam\\Desktop\\StockWebApp\\StockWebApp\\StockWebApp.csproj",
-        "packagesPath": "C:\\Users\\Pritam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pritam\\Desktop\\StockWebApp\\StockWebApp\\obj\\",
+        "projectPath": "/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/StockWebApp.csproj",
+        "packagesPath": "/Users/pritam/.nuget/packages/",
+        "outputPath": "/Users/pritam/Documents/ASP.NET/StockWebApp/StockWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pritam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/pritam/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }
