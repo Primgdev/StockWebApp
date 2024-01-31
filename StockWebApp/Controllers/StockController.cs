@@ -27,6 +27,13 @@ namespace StockWebApp.Controllers
                           Problem("Entity set 'ApplicationDbContext.Stock'  is null.");
         }
 
+        // GET: Stock-search
+        public async Task<IActionResult> Searchform()
+        {
+            return View();
+                      
+        }
+
         // GET: Stock/Details/5
         public async Task<IActionResult> Details(int? id)
         {
